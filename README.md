@@ -20,4 +20,9 @@ in the window using the desired paramaters selected.
 
 
 
+
+
+
+
+
 ![screenShot](develop/passwordGenerator_1.png)
