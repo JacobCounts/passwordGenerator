@@ -1,28 +1,41 @@
-# Password Generator
+    
+# Random Password Generator
 
-I found this very challenging, but after hours of research I was 
-albe to make somthing that I am fairly happy with.
-There are additional things to add eventually.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-## Code Example
+    
+## Description: 
+Allows user to create a random password
 
-I decide to go with the CharCode instead of just inputing characters.
+## Table of Contents:
 
-```function getRandomUpperCase(){
-return String.fromCharCode(Math.floor(Math.random()*26)+65);
-}
-```
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Testing](#testing)
 
-## How To Use
+## Installation: 
+npm install
 
-Upon clicking the generate button and random password will be produced
-in the window using the desired paramaters selected.
-
-
-
-
+## Usage: 
 
 
 
+## License: MIT
 
-![screenShot](develop/passwordGenerator_1.png)
+#### Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+#### The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+#### THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contributing: 
+
+
+## Testing: 
+npm test
+
+## Questions? I can be contacted with the links below:   
+* email: infamous213@gmail.com
+* gitHub: [gitHub](https://github.com/JacobCounts)
