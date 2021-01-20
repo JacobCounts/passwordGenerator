@@ -36,6 +36,8 @@ npm install
 ## Testing: 
 npm test
 
+![](Assets/passwordGen.png)
+
 ## Questions? I can be contacted with the links below:   
 * email: infamous213@gmail.com
 * gitHub: [gitHub](https://github.com/JacobCounts)
